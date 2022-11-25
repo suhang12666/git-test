@@ -9,4 +9,7 @@ public class Su {
         System.out.println("vbbbbbbbbbbbbbb");
 
     }
+    public  void  aVoid(){
+        System.out.println("我叫苏航");
+    }
 }
