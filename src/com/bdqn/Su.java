@@ -5,7 +5,7 @@ public class Su {
         System.out.println(123);
         System.out.println(1235213);
 
-        System.out.println("asdasdsa");
+
 
     }
     public  void  aVoid(){
